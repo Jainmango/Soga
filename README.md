@@ -1,2 +1,2 @@
 # Soga
-Mine
+Mine this is a test repository for myself
